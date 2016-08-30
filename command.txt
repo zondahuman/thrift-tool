@@ -1,0 +1,26 @@
+cd E:\SystemWork\opensource\thrift\install>
+E:
+thrift-0.9.3.exe --gen java -o service service.thrift
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
